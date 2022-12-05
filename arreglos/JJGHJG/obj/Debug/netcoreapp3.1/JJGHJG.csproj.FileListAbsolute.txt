@@ -1,0 +1,14 @@
+C:\Users\Annette\source\repos\JJGHJG\JJGHJG\bin\Debug\netcoreapp3.1\JJGHJG.exe
+C:\Users\Annette\source\repos\JJGHJG\JJGHJG\bin\Debug\netcoreapp3.1\JJGHJG.deps.json
+C:\Users\Annette\source\repos\JJGHJG\JJGHJG\bin\Debug\netcoreapp3.1\JJGHJG.runtimeconfig.json
+C:\Users\Annette\source\repos\JJGHJG\JJGHJG\bin\Debug\netcoreapp3.1\JJGHJG.runtimeconfig.dev.json
+C:\Users\Annette\source\repos\JJGHJG\JJGHJG\bin\Debug\netcoreapp3.1\JJGHJG.dll
+C:\Users\Annette\source\repos\JJGHJG\JJGHJG\bin\Debug\netcoreapp3.1\JJGHJG.pdb
+C:\Users\Annette\source\repos\JJGHJG\JJGHJG\obj\Debug\netcoreapp3.1\JJGHJG.csproj.AssemblyReference.cache
+C:\Users\Annette\source\repos\JJGHJG\JJGHJG\obj\Debug\netcoreapp3.1\JJGHJG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Annette\source\repos\JJGHJG\JJGHJG\obj\Debug\netcoreapp3.1\JJGHJG.AssemblyInfoInputs.cache
+C:\Users\Annette\source\repos\JJGHJG\JJGHJG\obj\Debug\netcoreapp3.1\JJGHJG.AssemblyInfo.cs
+C:\Users\Annette\source\repos\JJGHJG\JJGHJG\obj\Debug\netcoreapp3.1\JJGHJG.csproj.CoreCompileInputs.cache
+C:\Users\Annette\source\repos\JJGHJG\JJGHJG\obj\Debug\netcoreapp3.1\JJGHJG.dll
+C:\Users\Annette\source\repos\JJGHJG\JJGHJG\obj\Debug\netcoreapp3.1\JJGHJG.pdb
+C:\Users\Annette\source\repos\JJGHJG\JJGHJG\obj\Debug\netcoreapp3.1\JJGHJG.genruntimeconfig.cache
